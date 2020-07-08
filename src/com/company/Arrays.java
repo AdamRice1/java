@@ -1,3 +1,5 @@
+package com.company;
+
 public class Arrays {
     public static void main(String[] args) {
         int[] nums = {10,23,3,4,5,2,1};
